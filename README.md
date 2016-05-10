@@ -1,6 +1,8 @@
 # francetv zoom Loader View #
 
-This is ...
+This project is part of [francetv zoom open source projects](https://github.com/francetv/zoom-public) (iOS, Android and Angular).
+
+Angular module to make popin easily. It provide a service to build popin with a basic style.
 
 ![](demo.gif)
 
